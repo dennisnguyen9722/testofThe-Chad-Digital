@@ -66,6 +66,3 @@ Mở trình duyệt và truy cập **http://localhost:5173** để sử dụng �
 - Thang máy chỉ nhận yêu cầu cùng chiều.
 - Nếu tất cả thang máy đang bận, yêu cầu sẽ được xếp hàng.
 
----
-💡 **Mọi góp ý hoặc lỗi, vui lòng mở issue trên GitHub hoặc liên hệ nhóm phát triển.** 🚀
-

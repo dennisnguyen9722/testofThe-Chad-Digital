@@ -15,7 +15,7 @@ Elevator.propTypes = {
     elevator: PropTypes.shape({
         id: PropTypes.number.isRequired,
         currentFloor: PropTypes.number.isRequired,
-        isDoorOpen: PropTypes.bool.isRequired, // Thêm trạng thái mở cửa
+        isDoorOpen: PropTypes.bool.isRequired,
     }).isRequired,
 };
 
