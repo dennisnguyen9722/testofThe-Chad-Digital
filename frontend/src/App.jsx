@@ -16,7 +16,7 @@ function App() {
 
   const callElevator = (floor, direction) => {
     socket.emit("callElevator", floor, direction);
-  };
+  }; 
 
   return (
     <div className="building">
